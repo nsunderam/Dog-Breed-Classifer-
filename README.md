@@ -14,5 +14,7 @@ A VGG16 model was chosen which achieved much higher test accuracy and lower vali
 The classifier will classify an image as either a dog or a human and then estimate the associated probability with a specific breed.
 
 ![alex](https://user-images.githubusercontent.com/39443902/58206637-ffeccd00-7cd8-11e9-852d-9d83f2910568.png)
+
+
 It's a human and you look like:
 Komondor with probability 1.81%
